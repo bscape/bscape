@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">画像メモ</string>
+    <string name="b_red">赤色</string>
+    <string name="b_green">緑色</string>
+    <string name="b_blue">青色</string>
+    <string name="b_black">黒色</string>
+    <string name="b_white">白色</string>
+    <string name="back">背景</string>
+    <string name="menu_export">保存する</string>
+    <string name="menu_camera">カメラを起動する</string>
+    <string name="menu_gallery">ギャラリーを起動する</string>
+    <string name="menu_clear">画面をクリアにする</string>
+
+</resources>
